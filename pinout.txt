@@ -1,0 +1,14 @@
+            ____
+1 -- Unused |    | Vcc -- 8
+2 -- Unused |    | WP  -- 7
+3 -- Unused |    | SCL -- 6
+4 -- GND    |    | SDA -- 5
+             ----
+
+Bus Pirate Cable Pinout:
+Brown		GND
+Red		3.3V
+Orange		5.5V
+Green		VPU
+Purple		SCL
+Grey		SDA
